@@ -33,5 +33,4 @@ It helps in selecting the best option when multiple criteria are involved.
 
 ---
 
-## 📂 Project Structure
 
